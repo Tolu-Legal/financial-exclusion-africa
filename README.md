@@ -1,7 +1,5 @@
-# financial-exclusion-africa
-Bridging the Gap: A Data-Backed Story of Financial Exclusion in Africa.
-
 # Financial Exclusion in Africa
+Bridging the Gap: A Data-Backed Story of Financial Exclusion in Africa.
 
 This repository contains a data-backed report and code analyzing financial exclusion across African countries using the Global Findex dataset (2021–2024).
 
